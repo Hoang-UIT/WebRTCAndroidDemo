@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "201205271412",
+    "firebase_url": "https://webrtcandroiddemo.firebaseio.com",
+    "project_id": "webrtcandroiddemo",
+    "storage_bucket": "webrtcandroiddemo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:201205271412:android:7fff138b3cc8c3904d7a21",
+        "android_client_info": {
+          "package_name": "com.example.webrtcadroiddemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "201205271412-7422r3l81n8n89pikb57me0kal2j90vf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfrBYzq_bR-57t61YCNYMEf6RGIcr9lkU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "201205271412-7422r3l81n8n89pikb57me0kal2j90vf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
